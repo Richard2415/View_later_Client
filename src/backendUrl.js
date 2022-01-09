@@ -1,3 +1,3 @@
-const backendUrl = 'https://mern-view-later.herokuapp.com/';
+const backendUrl = 'https://bookmarks-added.herokuapp.com/';
 
 export default backendUrl;
