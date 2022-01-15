@@ -16,7 +16,6 @@ import {
   MenuItem,
   useMediaQuery,
   Switch,
-  Link,
   Container,
 } from '@material-ui/core';
 import { useNavStyles } from '../styles/muiStyles';
